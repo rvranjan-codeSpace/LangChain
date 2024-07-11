@@ -1,0 +1,15 @@
+openai
+streamlit
+langchain-openai
+python-dotenv
+pandas
+
+# PDF query
+PyPDF2
+# FAISS (Facebook AI Similarity Search) helps in fast nearest neighbor search in high-dimensional spaces.
+faiss-cpu
+# tiktoken helps in creating token
+tiktoken
+huggingface_hub
+langchain-huggingface
+
